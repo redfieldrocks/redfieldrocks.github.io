@@ -90,10 +90,10 @@ footer {
 	padding-right: 25px;
 }
 
-.fa-brands:hover,.fa-brands:focus{
-   color: #d70000;
+.fa-brands:hover{
+   color: #d70000 !important;
 }
 
 .fa-brands{
-	color: rgb(155, 112, 112)
+	color: rgb(155, 112, 112) !important;
 }
