@@ -68,7 +68,7 @@ a {
 }
 
 a:hover, a:focus {
-    color: #ea4c88;
+    color: rgb(155, 155, 155);
 }
 
 footer {
