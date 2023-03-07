@@ -90,8 +90,16 @@ footer {
 	padding-right: 25px;
 }
 
+.fa-brands{
+   color:rgb(155, 155, 155) !important;
+}
+
 .fa-brands:hover{
    color: #d70000 !important;
+}
+
+.fa-sold{
+   color:rgb(155, 155, 155) !important!
 }
 
 .fa-solid:hover{
