@@ -90,6 +90,6 @@ footer {
 	padding-right: 25px;
 }
 
-.socialicon:hover {
-	color: #d70000;
+.fa.fa-brands.fa-twitter:hover,.fa.fa-brands.fa-twitter:focus{
+   color: #d70000;
 }
